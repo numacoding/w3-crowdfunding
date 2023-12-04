@@ -25,6 +25,7 @@ forge build
 
 ```
 forge script script/DeployFundMe.s.sol
+```
 
 ## Testing
 
